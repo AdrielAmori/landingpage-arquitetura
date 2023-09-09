@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+div{
+    min-width: 100%;
+}
+
+#topo{
+    text-align: justify;
+    width: 1440px;
+    height: 475px;
+    background-color: #303030;
+}
+
+#titulo-topo{
+    font-size: 60px;
+    color: #FFFFFF;
+    font-weight: 600;
+    margin: 0px 0px 0px 62px;
+    padding-top: 206px;
+    line-height: 72px;
+    letter-spacing: -1.5px;
+}
+
+#paragrafo-topo{
+    font-size: 25px;
+    color: #FFFFFF;
+    margin: 25px 0px 0px 62px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;  
+}
+
+#menuinformacional{
+    width: 1440px;
+    height: 229px;
+    background: #F9F9F9;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+}
+
+#empreendimentos{
+    margin-top: 96px;
+    margin-bottom: 66px;
+    margin-left: 171px;
+}
+
+.textoinformativo{
+    margin-top: 96px;
+    margin-bottom: 66px;
+    margin-right: 40px;
+}
+
+.container {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto; 
+}
+
+.texto{
+    margin: 304px 77px 0px 77px;
+}
+
+#titulohistoria{
+    margin-right: 0px;
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+#textohistoria{
+    margin-top: 50px;
+    margin-right: 150px;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+#imagemsala{
+    margin-top: 82px;
+    margin-left: 50px;
+    margin-bottom: 92px;
+}
+
+#formulario{
+    background-color: black;
+    
+}
+
+
+
+
+
+
+
+
