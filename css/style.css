@@ -85,10 +85,7 @@ div{
 }
 
 #imagemsala{
-    margin-top: 82px;
-    margin-left: 50px;
-    margin-bottom: 92px;
-    margin-right: 54px;
+    margin: 82px 54px 92px 50px;
 }
 
 #formulario{
@@ -102,10 +99,10 @@ div{
     color: #FFF;
     text-align: center;
     font-family: Inter;
-    font-size: 32px;
+    font-size: 25px;
     font-style: normal;
     font-weight: 700;
-    line-height: 150%;
+    
 }
 
 input{
@@ -122,15 +119,18 @@ input{
 button{
     border-radius: 10px;
     background: #C07212;
-    width: 286px;
-    height: 74px;
     color: #FFF;
     font-family: Raleway;
-    font-size: 30px;
+    font-size: 25px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 30px;
+    margin-top: 30px;
     margin-bottom: 87px;
+    text-align: center;
+    width: 250px;
+    height: 60px;
+    flex-shrink: 0;
 }
 
 button:hover{
